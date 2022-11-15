@@ -7,7 +7,7 @@ function Collection() {
     <div>
       <Hero_coll />
       <Coll_image
-        title="ALL IMAGEs"
+        title="All Collection Travel"
         description="Provident cupiditate voluptatem et in."
       />
     </div>

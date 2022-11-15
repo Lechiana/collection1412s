@@ -6,7 +6,7 @@ function Hero() {
       <div
         className="hero min-h-screen"
         style={{
-          backgroundImage: `url("https://cdn.discordapp.com/attachments/819417965606207540/1040689073939038228/68126514_p0.jpg")`,
+          backgroundImage: `url("https://sv1.picz.in.th/images/2022/11/13/vmpDeW.jpg")`,
         }}
       >
         <div className="hero-overlay bg-opacity-60"></div>

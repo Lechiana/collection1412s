@@ -7,11 +7,11 @@ function Hero_Lest() {
       <div className="hero min-h-screen bg-base-200">
         <div className="hero-content flex-col lg:flex-row">
           <img
-            src="https://media.discordapp.net/attachments/819417965606207540/1040736471054815313/51193369_p0.jpg?width=414&height=662"
+            src="https://sv1.picz.in.th/images/2022/11/15/GdcZ50.jpg"
             className="max-w-sm rounded-lg shadow-2xl"
           />
           <div className="ml-10">
-            <h1 className="text-5xl font-bold">All Collection</h1>
+            <h1 className="text-5xl font-bold">All Collection Travel</h1>
             <p className="py-6">
               Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda
               excepturi exercitationem quasi. In deleniti eaque aut repudiandae

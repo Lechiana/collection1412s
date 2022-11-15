@@ -6,7 +6,7 @@ function Hero_coll() {
       <div
         className="hero min-h-screen"
         style={{
-          backgroundImage: `url("https://media.discordapp.net/attachments/819417965606207540/1040719622112026644/644062.png?width=1178&height=662")`,
+          backgroundImage: `url("https://sv1.picz.in.th/images/2022/11/13/vmp8Wb.jpg")`,
         }}
       >
         <div className="hero-overlay bg-opacity-60"></div>

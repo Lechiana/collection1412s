@@ -6,7 +6,7 @@ const Section = ({ title, description }) => {
     return [...new Array(4)].map((el, index) => (
       <Card
         key={index}
-        image="https://cdn.discordapp.com/attachments/819417965606207540/901810666044809296/90518310_p5.jpg"
+        image="https://sv1.picz.in.th/images/2022/11/15/GdZ1rQ.jpg"
       />
     ));
   };

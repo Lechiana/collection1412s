@@ -8,7 +8,7 @@ function Home() {
     <div>
       <Hero />
       <Section
-        title="SO CUTE"
+        title="Top Travel"
         description="Provident cupiditate voluptatem et in."
       />
       <Hero_Lest />
